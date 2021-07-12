@@ -1,0 +1,4 @@
+[submodule "umi"]
+	path = umi
+	url = https://github.com/Tan90Qian/umi
+	branch = fix/qiankun-mfsu

@@ -1,11 +1,10 @@
 import { defineConfig } from 'umi';
 
 export default defineConfig({
-  nodeModulesTransform: {
-    type: 'none',
-  },
+  webpack5: {},
+  mfsu: {},
+  dynamicImport: {},
   routes: [{ path: '/', component: '@/pages/index' }],
-  fastRefresh: {},
   qiankun: {
     slave: {},
   },

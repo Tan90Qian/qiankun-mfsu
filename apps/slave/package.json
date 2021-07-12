@@ -1,5 +1,7 @@
 {
   "name": "slave",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
